@@ -6,3 +6,4 @@
 * ls -Sh
 * cd -
 * mkdir {dir1,dir2,dir3}
+- md5sum FILE
